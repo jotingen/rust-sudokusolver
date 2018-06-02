@@ -1,0 +1,6 @@
+[package]
+name = "rust-sudokusolver"
+version = "0.1.0"
+authors = ["jotingen <l8k*gNe9YjDi#cddNT7f>"]
+
+[dependencies]
